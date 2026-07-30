@@ -17,14 +17,14 @@ st.sidebar.markdown("---")
 st.sidebar.header("👨‍💻 ผู้พัฒนา")
 
 st.sidebar.image(
-    "images/thanaphon.jpg",
+    "images/mark.jpg",
     width=180
 )
 
 st.sidebar.markdown("""
-### ธนพล ดีสองชั้น
+### พีรพัฒน์ กองบุตร
 
-**รหัสนักศึกษา:** 664245013
+**รหัสนักศึกษา:** 664245025
 
 **ห้อง:** 66/43
 """)
